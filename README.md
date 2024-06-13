@@ -25,7 +25,7 @@ You can find and get touch with me on these accounts 🙈
 
 [![LinkedIn Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/metinmustafaaltintas/)
 
-[![Twitter Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/halilozel1903)
+[![Twitter Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/MetinAltnts57)
 
 ## 🙃 Would you like to support me? 🥳
 
