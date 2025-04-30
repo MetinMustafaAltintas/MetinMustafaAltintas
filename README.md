@@ -9,7 +9,7 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetinMustafaAltintas&layout=compact&theme=dark" />
 </p>
 
-![MetinMustafaALTINTAŞ's github stats](https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&theme=dark)
+![MetinMustafaALTINTAŞ's github stats](https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&theme=dark_&count_private=true)
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
 
