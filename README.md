@@ -9,6 +9,8 @@
   <img  src="https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetinMustafaAltintas&layout=compact&theme=dark" />
 </p>
 
+![MetinMustafaALTINTAŞ's github stats](https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&theme=dark)
+
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
 
 [![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=tr&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
