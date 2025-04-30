@@ -6,7 +6,7 @@
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetinMustafaAltintas&layout=compact&theme=dark" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetinMustafaAltintas&layout=compact&theme=dark" />
 </p>
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
