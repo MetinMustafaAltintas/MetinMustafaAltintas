@@ -5,11 +5,7 @@
 
 ## 📌 GitHub 😻 Stats 📈 & Top 🏆 Languages 🌍
 
-<p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetinMustafaAltintas&layout=compact&theme=dark" />
-</p>
-
-![MetinMustafaALTINTAŞ's github stats](https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&theme=dark_&count_private=true&locale=tr)
+[![Metin Mustafa Altıntaş'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&locale=tr&hide=contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=Metin%20Mustafa%20Alt%C4%B1nta%C5%9F%27%C4%B1n%20GitHub%20%C4%B0statistikleri&theme=transparent)](https://github.com/MetinMustafaAltintas/github-readme-stats)
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
 
