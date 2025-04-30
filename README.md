@@ -9,8 +9,7 @@
 [![Metin Mustafa Altıntaş'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=MetinMustafaAltintas&show_icons=true&locale=tr&hide=contribs&custom_title=Metin%20Mustafa%20Alt%C4%B1nta%C5%9F%27%C4%B1n%20GitHub%20%C4%B0statistikleri&theme=dark&card_width=400)](https://github.com/MetinMustafaAltintas/github-readme-stats)
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
-[![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=tr&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=tr&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=en&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)[![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=tr&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)
 ## 📝 How to access 🔓 blog post ✍🏻
 
 [![Medium Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@metinmustafaaltintas)
