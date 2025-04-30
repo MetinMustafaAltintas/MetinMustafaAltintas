@@ -10,7 +10,7 @@
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
 
-[![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=tr&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=tr&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)
 ## 📝 How to access 🔓 blog post ✍🏻
 
 [![Medium Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@metinmustafaaltintas)
