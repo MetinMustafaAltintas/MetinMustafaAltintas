@@ -13,8 +13,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MetinMustafaAltintas&theme=dark&locale=tr_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MetinMustafaAltintas)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MetinMustafaAltintas&theme=dark&locale=tr&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=MetinMustafaAltintas&theme=dark&hide_border=true&locale=tr&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ## 📝 How to access 🔓 blog post ✍🏻
 
 [![Medium Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@metinmustafaaltintas)
