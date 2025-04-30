@@ -10,6 +10,8 @@
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
 [![GitHub Streak](https://github-readme-streak-stats-puce-nine.vercel.app?user=MetinMustafaAltintas&hide_border=true&border_radius=5&locale=en&exclude_days=Sun%2CSat&theme=dark)](https://git.io/streak-stats)
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=metinaltnts&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## 📝 How to access 🔓 blog post ✍🏻
 
 [![Medium Badge](https://img.shields.io/badge/MetinMustafaALTINTAŞ-Medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@metinmustafaaltintas)
