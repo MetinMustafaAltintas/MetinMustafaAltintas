@@ -25,9 +25,8 @@ Hi, I'm **Metin Mustafa ALTINTAŞ**, a passionate Software Developer 💻 from T
 ---
 
 ## ⏱️ WakaTime Activity
-<p align="center">
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=metinaltnts&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 ---
 
