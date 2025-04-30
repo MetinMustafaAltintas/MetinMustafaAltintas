@@ -11,7 +11,7 @@
 
 ## 🔥 GitHub 😺 Streak ⚠️ & Contributions 💪🏻
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MetinMustafaAltintas&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MetinMustafaAltintas&theme=dark&hide&locale=tr_border=true)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MetinMustafaAltintas)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=MetinMustafaAltintas&theme=dark&locale=tr&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
